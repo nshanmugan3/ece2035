@@ -1,0 +1,7 @@
+1. Create and edit a text file that contains the following:
+• Tell one interesting fact about yourself.
+	I lived in Vietnam for 2 years. 
+• Which Linux/Unix distribution are you using (e.g., Ubuntu 14.04.03)?
+	Ubuntu 14.04.03
+• The method you are using to run Linux/Unix (e.g., one of the options above).
+	Linux Bash shell on Windows 10 (Anniversary Update)
